@@ -5,10 +5,11 @@ discover, save, and plan meals for the week. It is designed for college students
 individuals who want quick recipes, ingredient lists, and a grocery planner — all without
 sign-ups or internet reliance.
 
-<img width="1914" height="1019" alt="image" src="https://github.com/user-attachments/assets/b3a13e96-b432-4b90-bf9b-9a1d63d85c8c" />
-<img width="1910" height="1016" alt="image" src="https://github.com/user-attachments/assets/df06da1f-bdc8-41c1-9abe-173e9da53ae9" />
-<img width="959" height="1020" alt="image" src="https://github.com/user-attachments/assets/7e3b1315-ddd6-4926-8756-3dd80c7be192" />
-<img width="952" height="1006" alt="image" src="https://github.com/user-attachments/assets/feceeaef-0487-405a-950c-d85a443a229a" />
+<img width="1917" height="1026" alt="image" src="https://github.com/user-attachments/assets/ec8eaff9-d381-4edd-9a48-05fbc183406e" />
 
+<img width="1913" height="1016" alt="image" src="https://github.com/user-attachments/assets/162d004f-2c16-4fe3-be17-ef44de7606b9" />
 
-<img width="968" height="836" alt="image" src="https://github.com/user-attachments/assets/3ba2ff72-6512-4086-b592-827a670e9815" />
+<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/6293f3e5-4767-48fa-91bb-baa16e664fcd" />
+
+<img width="1916" height="1018" alt="image" src="https://github.com/user-attachments/assets/400a6993-1d0c-4ced-91ab-1ecc4a343bf0" />
+<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/9bc120c0-660b-4170-870c-eb16ef9ca721" />
