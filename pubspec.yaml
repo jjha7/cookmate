@@ -1,10 +1,11 @@
-
 name: cookmate_custom
-description: CookMate - Recipe & Meal Planner (custom build with images + Lottie)
+description: CookMate - Recipe & Meal Planner App
 publish_to: "none"
 version: 1.0.0+1
+
 environment:
   sdk: ">=3.0.0 <4.0.0"
+
 dependencies:
   flutter:
     sdk: flutter
@@ -13,11 +14,17 @@ dependencies:
   path_provider: ^2.1.2
   lottie: ^2.4.0
   google_fonts: ^6.2.1
+  share_plus: ^10.0.0
+  url_launcher: ^6.3.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
 flutter:
   uses-material-design: true
   assets:
+    - assets/recipes.json
     - assets/images/
     - assets/animations/
+

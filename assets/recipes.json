@@ -5,71 +5,101 @@
     "image": "assets/images/smoothies.jpg",
     "category": "Breakfast",
     "diet": "veg",
+    "tags": ["vegetarian", "gluten-free"],
+    "minutes": 8,
     "ingredients": [
-      "Banana - 1",
-      "Mixed berries - 1 cup",
-      "Yogurt - 1/2 cup",
-      "Honey - 1 tbsp"
+      "Banana – 1",
+      "Mixed berries – 1 cup",
+      "Greek yogurt – 1/2 cup",
+      "Almond milk – 3/4 cup",
+      "Honey or maple syrup – 1 tbsp",
+      "Ice – 4–5 cubes",
+      "Mint leaves – a few (garnish)"
     ],
     "steps": [
-      "Add all to blender",
-      "Blend until creamy",
-      "Serve chilled"
+      "Add banana, berries, yogurt and almond milk to a blender.",
+      "Sweeten with honey if desired and add ice.",
+      "Blend 30–45 seconds until creamy. Pour into glasses and garnish with mint."
     ]
   },
   {
     "id": "r2",
-    "title": "Oyster Sauce Noodles",
+    "title": "Oyster-Sauce Stir-Fry Noodles",
     "image": "assets/images/noodles.jpg",
     "category": "Lunch",
     "diet": "non-veg",
+    "tags": ["high-protein"],
+    "minutes": 20,
     "ingredients": [
-      "Egg noodles - 200g",
-      "Beef - 150g",
-      "Oyster sauce - 2 tbsp",
-      "Spring onion"
+      "Egg noodles – 200 g",
+      "Beef or chicken – 150 g, thinly sliced",
+      "Oyster sauce – 2 tbsp",
+      "Soy sauce – 1 tbsp",
+      "Garlic – 2 cloves, minced",
+      "Sesame oil – 1 tsp",
+      "Spring onion – 2 stalks, chopped",
+      "Neutral oil – 1 tbsp",
+      "Sesame seeds – 1 tsp (garnish)"
     ],
     "steps": [
-      "Boil noodles",
-      "Stir-fry beef",
-      "Add noodles & sauce",
-      "Garnish and serve"
+      "Boil noodles as per pack, drain and toss with a little sesame oil.",
+      "Stir-fry garlic and beef in a hot wok with neutral oil for 2–3 minutes.",
+      "Add noodles, oyster sauce and soy sauce; toss until glossy and coated.",
+      "Finish with spring onion and sesame seeds. Serve hot."
     ]
   },
   {
     "id": "r3",
-    "title": "Quinoa Patties Salad",
+    "title": "Crispy Quinoa Patties over Garden Salad",
     "image": "assets/images/quinoa_patties.jpg",
     "category": "Dinner",
     "diet": "veg",
+    "tags": ["vegetarian"],
+    "minutes": 30,
     "ingredients": [
-      "Cooked quinoa - 1 cup",
-      "Mixed veggies - 1 cup",
-      "Egg - 1",
-      "Spices"
+      "Cooked quinoa – 1 cup (well drained)",
+      "Egg – 1 (or flax egg for vegan)",
+      "Grated carrot – 1/2 cup",
+      "Minced onion – 1/4 cup",
+      "Breadcrumbs – 1/4 cup",
+      "Paprika – 1/2 tsp, Salt & Pepper",
+      "Olive oil – 2 tbsp for pan",
+      "Mixed salad leaves – 2 cups",
+      "Cherry tomatoes – 1/2 cup, halved",
+      "Cucumber – 1/2, sliced",
+      "Lemon vinaigrette – 2 tbsp"
     ],
     "steps": [
-      "Mix patties & pan-fry",
-      "Make salad base",
-      "Top with patties"
+      "Mix quinoa, egg, carrot, onion, breadcrumbs and spices. Form 6–8 small patties.",
+      "Pan-fry in olive oil 3–4 minutes per side until golden and crisp.",
+      "Toss salad leaves, tomatoes and cucumber with vinaigrette.",
+      "Serve patties over the salad. Squeeze extra lemon if desired."
     ]
   },
   {
     "id": "r4",
-    "title": "Lemon Cheesecake",
+    "title": "No-Bake Lemon Cheesecake Slice",
     "image": "assets/images/lemon_cheesecake.jpg",
     "category": "Dessert",
     "diet": "veg",
+    "tags": ["vegetarian"],
+    "minutes": 25,
     "ingredients": [
-      "Cream cheese - 500g",
-      "Lemon - 1",
-      "Sugar - 1/2 cup",
-      "Crust base"
+      "Digestive biscuits – 200 g, crushed",
+      "Melted butter – 80 g",
+      "Cream cheese – 500 g, softened",
+      "Caster sugar – 1/2 cup",
+      "Lemon zest – from 1 lemon",
+      "Lemon juice – 2 tbsp",
+      "Whipping cream – 3/4 cup, softly whipped",
+      "Vanilla – 1 tsp",
+      "Mint & lemon peel – for garnish"
     ],
     "steps": [
-      "Beat filling",
-      "Pour & bake",
-      "Chill and slice"
+      "Combine crushed biscuits with melted butter; press into a lined tin. Chill 10 minutes.",
+      "Beat cream cheese, sugar, vanilla and lemon zest until smooth; mix in lemon juice.",
+      "Fold in whipped cream gently; spread over the base. Chill at least 3 hours.",
+      "Slice and garnish with lemon peel and mint."
     ]
   }
 ]
