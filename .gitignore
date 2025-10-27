@@ -1,0 +1,15 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log

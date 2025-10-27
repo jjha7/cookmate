@@ -1,0 +1,75 @@
+[
+  {
+    "id": "r1",
+    "title": "Trio Smoothies",
+    "image": "assets/images/smoothies.jpg",
+    "category": "Breakfast",
+    "diet": "veg",
+    "ingredients": [
+      "Banana - 1",
+      "Mixed berries - 1 cup",
+      "Yogurt - 1/2 cup",
+      "Honey - 1 tbsp"
+    ],
+    "steps": [
+      "Add all to blender",
+      "Blend until creamy",
+      "Serve chilled"
+    ]
+  },
+  {
+    "id": "r2",
+    "title": "Oyster Sauce Noodles",
+    "image": "assets/images/noodles.jpg",
+    "category": "Lunch",
+    "diet": "non-veg",
+    "ingredients": [
+      "Egg noodles - 200g",
+      "Beef - 150g",
+      "Oyster sauce - 2 tbsp",
+      "Spring onion"
+    ],
+    "steps": [
+      "Boil noodles",
+      "Stir-fry beef",
+      "Add noodles & sauce",
+      "Garnish and serve"
+    ]
+  },
+  {
+    "id": "r3",
+    "title": "Quinoa Patties Salad",
+    "image": "assets/images/quinoa_patties.jpg",
+    "category": "Dinner",
+    "diet": "veg",
+    "ingredients": [
+      "Cooked quinoa - 1 cup",
+      "Mixed veggies - 1 cup",
+      "Egg - 1",
+      "Spices"
+    ],
+    "steps": [
+      "Mix patties & pan-fry",
+      "Make salad base",
+      "Top with patties"
+    ]
+  },
+  {
+    "id": "r4",
+    "title": "Lemon Cheesecake",
+    "image": "assets/images/lemon_cheesecake.jpg",
+    "category": "Dessert",
+    "diet": "veg",
+    "ingredients": [
+      "Cream cheese - 500g",
+      "Lemon - 1",
+      "Sugar - 1/2 cup",
+      "Crust base"
+    ],
+    "steps": [
+      "Beat filling",
+      "Pour & bake",
+      "Chill and slice"
+    ]
+  }
+]
