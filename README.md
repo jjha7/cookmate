@@ -1,5 +1,5 @@
 Project Summary
-App Name (working): CookMate 🍳
+App Name: CookMate 🍳
 Purpose: CookMate is a simple, offline-friendly recipe and meal planner app that helps users
 discover, save, and plan meals for the week. It is designed for college students and busy
 individuals who want quick recipes, ingredient lists, and a grocery planner — all without
