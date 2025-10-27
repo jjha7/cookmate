@@ -5,6 +5,8 @@ discover, save, and plan meals for the week. It is designed for college students
 individuals who want quick recipes, ingredient lists, and a grocery planner — all without
 sign-ups or internet reliance.
 
+demo screen recorded - https://youtu.be/rkREeg0pWpM
+
 <img width="1917" height="1026" alt="image" src="https://github.com/user-attachments/assets/ec8eaff9-d381-4edd-9a48-05fbc183406e" />
 
 <img width="1913" height="1016" alt="image" src="https://github.com/user-attachments/assets/162d004f-2c16-4fe3-be17-ef44de7606b9" />
